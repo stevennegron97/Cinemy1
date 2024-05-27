@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /person/
+Sitemap: https://cinemyhub.com/sitemap.xml
+
